@@ -19,6 +19,10 @@ Este proyecto ayuda a agilizar el apoyo en el conteo de votos por medio de table
 
 
 ### TCO 3 años y Precio Total por mes
+![image](https://user-images.githubusercontent.com/86993406/127770764-cb077a49-b6a9-43a3-ab1c-4e5bc5c20f9b.png)
+
+![image](https://user-images.githubusercontent.com/86993406/127770799-688d228d-2626-4d63-92e0-f3414a54643b.png)
+
 
 ### Tiempo sin disponibilidad a un año
 
